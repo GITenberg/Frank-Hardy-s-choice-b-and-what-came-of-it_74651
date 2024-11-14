@@ -1,0 +1,24 @@
+_repo: Frank-Hardy-s-choice-b-and-what-came-of-it_74651
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Brien, C.
+    gutenberg_agent_id: '57587'
+    url: http://www.gutenberg.org/2009/agents/57587
+description: ''
+gutenberg_issued: '2024-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74651'
+language: en
+pgterms:marc905: 20241004073345obrien
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bGall and Inglis, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Frank Hardy''s choice : $b and what came of it'
+url: http://www.gutenberg.org/ebooks/74651
