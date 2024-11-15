@@ -1,11 +1,16 @@
 _repo: Frank-Hardy-s-choice-b-and-what-came-of-it_74651
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: O'Brien, C.
     gutenberg_agent_id: '57587'
     url: http://www.gutenberg.org/2009/agents/57587
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74651#Frank-Hardy-s-choice-b-and-what-came-of-it
 gutenberg_issued: '2024-10-27'
 gutenberg_type: Text
 identifiers:
